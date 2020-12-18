@@ -6,7 +6,7 @@ public class Calc {
 	}
 	
 	public void diff(int n1, int n2) {
-		System.out.println("Difference="+(n1-n2));
+		System.out.println("Diff="+(n1-n2));
 	}
 	
 	//change made in github editor
